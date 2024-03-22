@@ -140,7 +140,7 @@ Vels.html
 
 <html>
     <h1 align="center">
-        <font face="Times New Roman" color="black" size="6">T irunelveli</font>
+        <font face="Times New Roman" color="black" size="6">Tirunelveli</font>
     </h1>
     <h3 align="center">
         <font face="Times New Roman" color="purple" size="5.5">Vels Vidhyalaya School</font>
@@ -162,12 +162,16 @@ Vels.html
 ## OUTPUT
 
 ![alt text](<Screenshot 2024-03-22 183310.png>)
-![alt text](<Screenshot 2024-03-22 223309.png>)
-![alt text](<Screenshot 2024-03-22 223226.png>)
-![alt text](<Screenshot 2024-03-22 223039.png>)
-![alt text](<Screenshot 2024-03-22 222626.png>)
-![alt text](<Screenshot 2024-03-22 223350-1.png>)
 
+![alt text](<Screenshot 2024-03-22 223350-2.png>)
+
+![alt text](<Screenshot 2024-03-22 223226-1.png>)
+
+![alt text](<Screenshot 2024-03-22 223039-1.png>)
+
+![alt text](<Screenshot 2024-03-22 223309-1.png>)
+
+![alt text](<Screenshot 2024-03-22 222626-1.png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
