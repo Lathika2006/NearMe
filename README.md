@@ -161,7 +161,7 @@ Vels.html
 
 ## OUTPUT
 
-![alt text](<Screenshot 2024-03-22 183310.png>)
+![alt text](image.png)
 
 ![alt text](<Screenshot 2024-03-22 223350-2.png>)
 
